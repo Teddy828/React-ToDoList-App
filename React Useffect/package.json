@@ -2,7 +2,7 @@
   "name": "react-useffect",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Teddy828/React-ToDoList-App.git",
+  "homepage": "https://Teddy828.github.io/React-ToDoList-App/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
