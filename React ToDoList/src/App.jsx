@@ -4,12 +4,6 @@ import ToDoList from "./ToDoList.jsx";
 import "./index.css";
 
 function App() {
-  const [text, setText] = useState("");
-
-  useEffect(() => {
-    console.log("The text has been changed");
-  }, [text]);
-
   return <ToDoList />;
 }
 
